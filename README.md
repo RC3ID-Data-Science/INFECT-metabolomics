@@ -1,6 +1,6 @@
 # INFECT Metabolomics
 
-[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31769128-blue)](https://doi.org/10.6084/m9.figshare.31769128)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19773171.svg)](https://doi.org/10.5281/zenodo.19773171)
 [![GWAS Catalog](https://img.shields.io/badge/GWAS%20Catalog-GCST90824109-green)](https://www.ebi.ac.uk/gwas/studies/GCST90824109)
 
 R scripts and analysis code for the manuscript: **"Circulating metabolites associated with protection against *Mycobacterium tuberculosis* infection and inhibition of mycobacterial growth"**
@@ -222,7 +222,7 @@ source("scripts/Supplementary/FigS2_IGRA_quantitative_correlation.R")
 - **Metabolomics data (INFECT Indonesian cohort)**: Metabolomics Workbench (study ID pending)
 - **Metabolomics data (300BCG Dutch cohort)**: [GitLab - bcg300](https://gitlab.com/xavier-lab-computation/public/bcg300)
 - **GWAS summary statistics**: [NHGRI-EBI GWAS Catalog - GCST90824109](https://www.ebi.ac.uk/gwas/studies/GCST90824109)
-- **Supplementary data**: [Figshare - DOI:10.6084/m9.figshare.31769128](https://doi.org/10.6084/m9.figshare.31769128)
+- **Supplementary data**: [Figshare](https://doi.org/10.6084/m9.figshare.31769128) (DOI: [10.6084/m9.figshare.31769128](https://doi.org/10.6084/m9.figshare.31769128))
 
 ---
 
