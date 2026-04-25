@@ -1,0 +1,80 @@
+# Large data files
+*.xlsx
+*.csv
+*.tsv
+
+# Allow supplementary data files in data/ directory
+!data/Metabolomics_INFECT_supplementary_data.xlsx
+!data/INFECT_exact_ages.csv
+
+# Images and figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pptx
+
+# Word documents
+*.docx
+
+# R data files
+*.RData
+*.rds
+*.rda
+
+# R history and environment
+.Rhistory
+.Renviron
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Folders
+redundant/
+pdf_images/
+.claude/
+
+
+# Submission files
+nr-editorial-policy-checklist*
+nr-reporting-summary*
+Cover_Letter*
+Cover_letter*
+COMMSBIO-*
+
+# Zip files
+*.zip
+
+# Figure files in root
+Fig *.png
+Figures*
+Table *.png
+Graph Abstract*
+Supplementary figures*
+
+# Test artifacts
+test_*.txt
+test_runner.R
+
+# Superseded monolithic script (replaced by focused logistic regression script)
+scripts/03_differential_analysis/01_differential_metabolomics.R
+
+# Exploratory analyses not described in manuscript
+scripts/03_differential_analysis/02_differential_with_BCGscar.R
+scripts/03_differential_analysis/03_differential_no_BCGscar.R
+scripts/05_figures/Fig2_IGRA_status.R
+scripts/05_figures/Fig6_cytokine_correlation.R
+scripts/Supplementary/FigS8_cfu_clinical.R
+
