@@ -293,6 +293,8 @@ The supplementary Excel does not contain the pre-computed Log2FC_TBonly variable
 
 If you use this code or data, please cite:
 
+**Manuscript:**
+
 ```bibtex
 @article{pediatamasetiabudiawanCirculatingMetabolitesAssociated2026,
   title = {Circulating Metabolites Associated with Protection against {{Mycobacterium}} Tuberculosis Infection and Inhibition of Mycobacterial Growth [in Press]},
@@ -302,6 +304,20 @@ If you use this code or data, please cite:
   doi = {10.21203/rs.3.rs-6882340/v1},
   abstract = {A significant proportion of individuals who are heavily exposed to infectious tuberculosis patients do not acquire Mycobacterium tuberculosis (Mtb) infection, as detected by an interferon gamma release assay (IGRA). We examined circulating metabolite profiles and metabolic genotypes in 199 heavily exposed IGRA-negative tuberculosis household contacts in Indonesia. Based on differentially abundant metabolites, activity of several pathways including arachidonic acid, arginine and proline, glutathione, and tryptophan metabolism, correlated with a negative IGRA at three months. SNPs near PRODH (involved in arginine and proline metabolism) were associated with circulating proline concentrations and persistently negative IGRA results, while SNPs near AFMID (involved in tryptophan metabolism) were associated with IGRA conversion. For further validation, plasma metabolomic profiles were correlated with mycobacterial growth inhibition by peripheral blood mononuclear cells from individuals in a low-incidence setting. Lower circulating concentrations of six metabolites, including leukotriene B4, proline, glycine, and tryptophan correlated with better growth control in non-exposed healthy individuals, as well as with stronger protection against IGRA-conversion in the Indonesian tuberculosis household contacts. Collectively, these data support the notion that circulating metabolites may impact innate host defense against Mtb infection, and that metabolic interventions may prevent tuberculosis infection and disease.},
   keywords = {accepted,IGRA,innate immunity,metabolites,metabolomics,tuberculosis}
+}
+```
+
+**Software:**
+
+```bibtex
+@software{setiabudiawanINFECTMetabolomics2026,
+  title = {{INFECT} Metabolomics Analysis Code},
+  author = {Setiabudiawan, Todia P. and Apriani, Lika and {Avila-Pacheco}, Julian and Ardiansyah, Edwin and Kumar, Vinod and Alisjahbana, Bachti and Verrall, Ayesha and DiNardo, Andrew and Indrati, Agnes and Mourits, Vera and {de Bree}, Charlotte and Moorlag, Simone and Clish, Clary and Joosten, Leo and {van Laarhoven}, Arjan and Meijgaarden, Krista and Netea, Mihai and Joosten, Simone and Koeken, Valerie and Hill, Philip and {van Crevel}, Reinout},
+  year = 2026,
+  publisher = {Zenodo},
+  version = {v1.0.0},
+  doi = {10.5281/zenodo.19773171},
+  url = {https://github.com/RC3ID-Data-Science/INFECT-metabolomics}
 }
 ```
 
